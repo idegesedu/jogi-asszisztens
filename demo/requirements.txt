@@ -14,5 +14,9 @@ sentence-transformers>=2.2.2
 # Geolocation
 requests>=2.31.0
 
+# Document Processing
+pdfplumber>=0.10.0
+python-docx>=1.0.0
+
 # Utilities
 python-dotenv>=1.0.0

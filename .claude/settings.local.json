@@ -10,7 +10,19 @@
       "Bash(git add:*)",
       "Bash(del nul 2)",
       "Bash(nul)",
-      "Bash(dir:*)"
+      "Bash(dir:*)",
+      "Bash(git commit:*)",
+      "Bash(git config:*)",
+      "Bash(gh:*)",
+      "Bash(git branch:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(curl -u \"idegesedu:@Piroska25\" https://api.github.com/user/repos -d '{\"\"name\"\":\"\"demo\"\",\"\"description\"\":\"\"Jogi Asszisztens MI - Befektetői Demo Alkalmazás\"\",\"\"private\"\":false}')",
+      "Bash(git remote set-url:*)",
+      "Bash(python test_document_processor.py:*)",
+      "Bash(python -m py_compile:*)",
+      "Bash(venvScriptspip install pdfplumber python-docx)",
+      "Bash(./venv/Scripts/pip install:*)"
     ],
     "deny": [],
     "ask": []
