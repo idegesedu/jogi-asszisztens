@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python clean_markdown.py:*)",
+      "Bash(for f in Ptk_clean.md Be_clean.md Rtv_clean.md Fgy_tv_clean.md BTK_clean.md \"alaptörvény.md\")",
+      "Bash(do echo \"=== $f ===\")",
+      "Bash(done)",
+      "Bash(awk:*)",
+      "Bash(git add:*)",
+      "Bash(del nul 2)",
+      "Bash(nul)",
+      "Bash(dir:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -1,0 +1,18 @@
+# Jogi Asszisztens Demo - Python Dependencies
+
+# Web Framework
+streamlit>=1.28.0
+
+# LLM Providers
+openai>=1.3.0
+anthropic>=0.7.0
+
+# Vector Database & Embeddings
+chromadb>=0.4.15
+sentence-transformers>=2.2.2
+
+# Geolocation
+requests>=2.31.0
+
+# Utilities
+python-dotenv>=1.0.0
